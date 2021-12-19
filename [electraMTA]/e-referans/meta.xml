@@ -1,0 +1,6 @@
+<meta>
+	<!-- Auto generated using VSCode MTA:SA Lua by Subtixx -->
+	<info author="VSCode MTA:SA Lua" type="script" name="e-referans" version="0.1.0" />
+	<script src="referans_s.lua" type="server" />
+	<script src="referans_c.lua" type="client" />
+</meta>

@@ -1,0 +1,6 @@
+<meta>
+	<!-- Auto generated using VSCode MTA:SA Lua by Subtixx -->
+	<info author="VSCode MTA:SA Lua" type="script" name="e-bottomhud" version="0.1.0" />
+	<script src="client.lua" type="client" />
+	<file src="font.ttf"/>
+</meta>

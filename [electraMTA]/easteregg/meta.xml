@@ -1,0 +1,5 @@
+<meta>
+	<!-- Auto generated using VSCode MTA:SA Lua by Subtixx -->
+	<info author="VSCode MTA:SA Lua" type="script" name="e-easteregg" version="0.1.0" />
+	<script src="server.lua" type="server" />
+</meta>

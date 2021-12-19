@@ -1,0 +1,26 @@
+<meta>
+	<!-- Auto generated using VSCode MTA:SA Lua by Subtixx -->
+	<info author="VSCode MTA:SA Lua" type="script" name="e-phone" version="0.1.0" />
+	<file src="components/fonts/font.ttf" />
+	<file src="components/images/phone.png" />
+	<file src="components/images/phone-2.png" />
+	<file src="components/images/phone3.png" />
+	<file src="components/images/phone4.png" />
+	<file src="components/images/contacts.png" />
+	<file src="components/images/safari.png" />
+	<file src="components/images/settings.png" />
+	<file src="components/images/sms.png" />
+	<file src="components/images/store.png" />
+	<file src="components/images/whatsapp.png" />
+
+	<file src="components/sounds/busy_tone.mp3" />
+	<file src="components/sounds/dialing_tone.mp3" />
+	<file src="components/sounds/dispatch.mp3" />
+	<file src="components/sounds/hangup.mp3" />
+	<file src="components/sounds/invalid_tone.mp3" />
+	<file src="components/sounds/touch_tone.mp3" />
+	<file src="components/sounds/viberate.mp3" />
+	<file src="components/sounds/apple_ring.mp3" />
+
+	<script src="client.lua" type="client"/>
+</meta>

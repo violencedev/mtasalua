@@ -1,0 +1,5 @@
+<meta>
+	<!--Developed by Violence.-->
+	<info author="ElectraMTA" type="Violence" name="e-megaphone" version="0.1.0" />
+	<script src="server-side.lua" type="server" />
+</meta>

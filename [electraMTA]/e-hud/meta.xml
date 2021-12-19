@@ -1,0 +1,11 @@
+<meta>
+	<script src="speedo_c.lua" type="client"/>
+	<script src="hud_c.lua" type="client" />
+	<file src="font.ttf"/>
+	<file src="images/logo.png"/>
+	<file src="images/armour.png"/>
+	<file src="images/drink.png"/>
+	<file src="images/food.png"/>
+	<file src="images/heal.png"/>
+	<file src="images/heal_broken.png"/>
+</meta>

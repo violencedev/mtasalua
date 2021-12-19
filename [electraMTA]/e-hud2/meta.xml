@@ -1,0 +1,28 @@
+<meta>
+	<!-- Auto generated using VSCode MTA:SA Lua by Subtixx -->
+	<info author="VSCode MTA:SA Lua" type="script" name="e-hud2" version="0.1.0" />
+	<file src="images/drink.png" />
+	<file src="images/energy.png" />
+	<file src="images/female.png" />
+	<file src="images/male.png" />
+	<file src="images/hour.png" />
+	<file src="images/hunger.png" />
+	<file src="images/users.png" />
+	<file src="images/violence.png" />
+
+	<file src="images/speedo/fuel.png" />
+	<file src="images/speedo/fuel-bar.png" />
+	<file src="images/speedo/fuel-bar2.png" />
+	<file src="images/speedo/fuel-birlesik.png" />
+	<file src="images/speedo/fuel-birlesik2.png" />
+	<file src="images/speedo/location.png" />
+	<file src="images/speedo/purse.png" />
+	<file src="images/speedo/speedo.png" />
+	<file src="images/speedo/speedo-2.png" />
+
+	<file src="fonts/font.ttf"/>
+	<script src="c_hud.lua" type="client"/>
+	<script src="c_speedo.lua" type="client"/> 	<script src="s_hud.lua" type="server"/> 
+	<<script src="c_speedo.lua" type="client"/> 
+	
+</meta>
