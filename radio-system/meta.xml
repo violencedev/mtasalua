@@ -1,0 +1,8 @@
+<meta>
+	<info author="violence" type="script" name="radio-system" version="0.1.0" />
+	<script src="radio_g.lua" type="shared" />
+	<script src="radio_s.lua" type="server" />
+	<script src="radio_c.lua" type="client"/>
+
+	<file src="font.ttf"/>
+</meta>
